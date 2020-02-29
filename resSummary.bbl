@@ -1,0 +1,48 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bernat and Disney(2015)]{Bernat2015b}
+V.~Bernat and M.~D. Disney.
+\newblock \emph{\href{https://10.1016/j.neuron.2015.06.012}{Neuron}},
+  87\penalty0 (1):\penalty0 28--46, 2015.
+
+\bibitem[Bernat~\textit{et al}(2012)]{Bernat2012}
+V.~Bernat~\textit{et al}.
+\newblock \emph{\href{https://doi.org/10.1002/cmdc.201200184}{ChemMedChem}},
+  7\penalty0 (8):\penalty0 1481--1489, 2012.
+
+\bibitem[Bernat~\textit{et al}(2014)]{Bernat2014}
+V.~Bernat~\textit{et al}.
+\newblock \emph{\href{https://doi.org/10.1021/cb500678c}{ACS Chem. Biol.}},
+  9\penalty0 (11):\penalty0 2664--2677, 2014.
+
+\bibitem[Bernat~\textit{et al}(2015)]{Bernat2015a}
+V.~Bernat~\textit{et al}.
+\newblock \emph{\href{https://10.1002/cmdc.201402507}{ChemMedChem}},
+  10\penalty0 (3):\penalty0 566--574, 2015.
+
+\bibitem[Gamsey~\textit{et al}(2018)]{Gamsey2018}
+S.~Gamsey~\textit{et al}.
+\newblock \href{https://patents.google.com/patent/US20190010170A1/en}{US Pat.
+  Appl. 16038657}, 2018.
+
+\bibitem[Manglik~\textit{et al}(2016)]{Manglik2016}
+A.~Manglik~\textit{et al}.
+\newblock \emph{\href{https://doi.org/10.1038/nature19112}{Nature}},
+  537\penalty0 (7619):\penalty0 185--190, 2016.
+
+\bibitem[Schmidt~\textit{et al}(2015)]{Schmidt2015}
+D.~Schmidt~\textit{et al}.
+\newblock \emph{\href{{https://doi.org/10.1021/cb500577j}}{ACS Chem. Biol.}},
+  10\penalty0 (3):\penalty0 715--724, 2015.
+
+\bibitem[Wang~\textit{et al}(2019)]{Wang2019}
+Z.~F. Wang~\textit{et al}.
+\newblock \emph{\href{https://doi.org/10.1016/j.chembiol.2018.10.018}{Cell
+  Chem. Biol.}}, 26\penalty0 (2):\penalty0 179--190.e12, 2019.
+
+\end{thebibliography}
