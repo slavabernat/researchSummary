@@ -1,6 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: resSummary.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: resSummary.aux
 The style file: plainnat.bst
 Database file #1: mypubs.bib
 Warning--entry type for "Gamsey2018" isn't style-file defined
@@ -12,45 +10,4 @@ Warning--empty title in Bernat2015a
 Warning--empty title in Manglik2016
 Warning--empty title in Schmidt2015
 Warning--empty title in Wang2019
-You've used 8 entries,
-            2773 wiz_defined-function locations,
-            645 strings with 5749 characters,
-and the built_in function-call counts, 3137 in all, are:
-= -- 287
-> -- 91
-< -- 8
-+ -- 35
-- -- 27
-* -- 253
-:= -- 466
-add.period$ -- 16
-call.type$ -- 8
-change.case$ -- 26
-chr.to.int$ -- 8
-cite$ -- 23
-duplicate$ -- 155
-empty$ -- 319
-format.name$ -- 37
-if$ -- 648
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 7
-newline$ -- 40
-num.names$ -- 32
-pop$ -- 70
-preamble$ -- 1
-purify$ -- 25
-quote$ -- 0
-skip$ -- 109
-stack$ -- 0
-substring$ -- 209
-swap$ -- 8
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 88
-warning$ -- 7
-while$ -- 38
-width$ -- 0
-write$ -- 94
 (There were 8 warnings)
